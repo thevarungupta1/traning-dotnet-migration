@@ -1,0 +1,5 @@
+C:\Users\Varun Gupta\Desktop\Dotnet - unisys\class1\Exercise 3\ModernConsoleApp\obj\Debug\net9.0\ModernConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Varun Gupta\Desktop\Dotnet - unisys\class1\Exercise 3\ModernConsoleApp\obj\Debug\net9.0\ModernConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Varun Gupta\Desktop\Dotnet - unisys\class1\Exercise 3\ModernConsoleApp\obj\Debug\net9.0\ModernConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Varun Gupta\Desktop\Dotnet - unisys\class1\Exercise 3\ModernConsoleApp\obj\Debug\net9.0\ModernConsoleApp.AssemblyInfo.cs
+C:\Users\Varun Gupta\Desktop\Dotnet - unisys\class1\Exercise 3\ModernConsoleApp\obj\Debug\net9.0\ModernConsoleApp.csproj.CoreCompileInputs.cache
