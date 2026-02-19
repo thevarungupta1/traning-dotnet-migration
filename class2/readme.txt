@@ -28,3 +28,31 @@
 
 5. No XAML support
 - winforms does not use XAML.UI 
+
+
+
+# What is iCommand?
+ICommand is an interface from System.Windows.Input that represent an action that can be bound to UI elements like
+- Button
+- MenuItem
+- TollStripButton
+etc
+
+button.Click += Button_click
+
+
+
+button.Command = SaveCommand
+
+this is clean, testable and MVVM friendly
+
+
+public class RelayCommand : ICommand
+
+
+
+# Exercise - DataGrid, Strip and MVVM
+
+
+
+
