@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Varun Gupta\\source\\repos\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD6B4A2-149E-4413-BD10-ACA1E130E455}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\varun gupta\\source\\repos\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD6B4A2-149E-4413-BD10-ACA1E130E455}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD6B4A2-149E-4413-BD10-ACA1E130E455}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\varun gupta\\source\\repos\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBD6B4A2-149E-4413-BD10-ACA1E130E455}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD6B4A2-149E-4413-BD10-ACA1E130E455}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\varun gupta\\source\\repos\\winformsapp1\\winformsapp1\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD6B4A2-149E-4413-BD10-ACA1E130E455}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD6B4A2-149E-4413-BD10-ACA1E130E455}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\varun gupta\\source\\repos\\winformsapp1\\winformsapp1\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{FBD6B4A2-149E-4413-BD10-ACA1E130E455}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD6B4A2-149E-4413-BD10-ACA1E130E455}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\varun gupta\\source\\repos\\winformsapp1\\winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD6B4A2-149E-4413-BD10-ACA1E130E455}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD6B4A2-149E-4413-BD10-ACA1E130E455}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\varun gupta\\source\\repos\\winformsapp1\\winformsapp1\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD6B4A2-149E-4413-BD10-ACA1E130E455}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD6B4A2-149E-4413-BD10-ACA1E130E455}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\varun gupta\\source\\repos\\winformsapp1\\winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD6B4A2-149E-4413-BD10-ACA1E130E455}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Varun Gupta\\source\\repos\\WinFormsApp1\\WinFormsApp1\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Varun Gupta\\source\\repos\\WinFormsApp1\\WinFormsApp1\\LoginViewModel.cs",
+              "RelativeToolTip": "WinFormsApp1\\LoginViewModel.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAASwDAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T05:25:57.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Varun Gupta\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Varun Gupta\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Form1.cs*",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs*",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwBAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T05:17:26.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Varun Gupta\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Form1.resx",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.resx",
+              "ToolTip": "C:\\Users\\Varun Gupta\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Form1.resx*",
+              "RelativeToolTip": "WinFormsApp1\\Form1.resx*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-02-19T05:08:28.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Varun Gupta\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Varun Gupta\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Form1.Designer.cs*",
+              "RelativeToolTip": "WinFormsApp1\\Form1.Designer.cs*",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAewGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T05:08:32.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Varun Gupta\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Varun Gupta\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Form1.cs [Design]*",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T05:07:05.62Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Varun Gupta\\source\\repos\\WinFormsApp1\\WinFormsApp1\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Varun Gupta\\source\\repos\\WinFormsApp1\\WinFormsApp1\\RelayCommand.cs",
+              "RelativeToolTip": "WinFormsApp1\\RelayCommand.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T05:51:12.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Varun Gupta\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Varun Gupta\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Program.cs",
+              "RelativeToolTip": "WinFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T06:51:01.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
