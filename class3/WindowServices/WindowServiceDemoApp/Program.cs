@@ -24,5 +24,26 @@ try
     Log.Information("Starting Windows Service Demo App");
     var builder = Host.CreateApplicationBuilder(args);
     
-}
+    builder.Services.AddWindowsService(options =>
+    {
+        options.ServiceName = "WindowsServiceDemoApp";
+    });
 
+    // Windows-specific services
+    builder.Services.AddSingleton<IEventLogService, EventLogService>();
+    builder.Services.AddSingleton<IWindowsSystemInfoService, WindowsSystemInfoService>();
+
+    // background worker
+    builder.Services.AddHostedService<WindowsBackgroundWorker>();
+
+    var host = builder.Build();
+    host.Run();
+}
+catch(Exception ex)
+{
+    Log.Fatal(ex, "Application terminated unexpectedly");
+}
+finally
+{
+    Log.CloseAndFlush();
+}
