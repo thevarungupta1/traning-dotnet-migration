@@ -15,12 +15,14 @@
 // Publish
 // dotnet publish -c Release -r win-x64 --self-contained
 
+using Serilog;
+using WindowServiceDemoApp.Services;
+using WindowServiceDemoApp.Workers;
 
+try
+{
+    Log.Information("Starting Windows Service Demo App");
+    var builder = Host.CreateApplicationBuilder(args);
+    
+}
 
-using WindowServiceDemoApp;
-
-var builder = Host.CreateApplicationBuilder(args);
-builder.Services.AddHostedService<Worker>();
-
-var host = builder.Build();
-host.Run();
