@@ -1,0 +1,5 @@
+C:\Users\Varun Gupta\source\repos\WindowServices\WorkerServiceDemo\obj\Debug\net8.0\WorkerServiceDemo.csproj.AssemblyReference.cache
+C:\Users\Varun Gupta\source\repos\WindowServices\WorkerServiceDemo\obj\Debug\net8.0\WorkerServiceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Varun Gupta\source\repos\WindowServices\WorkerServiceDemo\obj\Debug\net8.0\WorkerServiceDemo.AssemblyInfoInputs.cache
+C:\Users\Varun Gupta\source\repos\WindowServices\WorkerServiceDemo\obj\Debug\net8.0\WorkerServiceDemo.AssemblyInfo.cs
+C:\Users\Varun Gupta\source\repos\WindowServices\WorkerServiceDemo\obj\Debug\net8.0\WorkerServiceDemo.csproj.CoreCompileInputs.cache

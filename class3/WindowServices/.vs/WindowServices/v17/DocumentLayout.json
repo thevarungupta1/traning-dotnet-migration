@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Varun Gupta\\source\\repos\\WindowServices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D33800F-3C85-4E17-88FE-5658C5875E1D}|WindowServiceDemoApp\\WindowServiceDemoApp.csproj|c:\\users\\varun gupta\\source\\repos\\windowservices\\windowservicedemoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D33800F-3C85-4E17-88FE-5658C5875E1D}|WindowServiceDemoApp\\WindowServiceDemoApp.csproj|solutionrelative:windowservicedemoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D33800F-3C85-4E17-88FE-5658C5875E1D}|WindowServiceDemoApp\\WindowServiceDemoApp.csproj|c:\\users\\varun gupta\\source\\repos\\windowservices\\windowservicedemoapp\\workers\\windowsbackgroundworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D33800F-3C85-4E17-88FE-5658C5875E1D}|WindowServiceDemoApp\\WindowServiceDemoApp.csproj|solutionrelative:windowservicedemoapp\\workers\\windowsbackgroundworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D33800F-3C85-4E17-88FE-5658C5875E1D}|WindowServiceDemoApp\\WindowServiceDemoApp.csproj|c:\\users\\varun gupta\\source\\repos\\windowservices\\windowservicedemoapp\\services\\windowssysteminfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D33800F-3C85-4E17-88FE-5658C5875E1D}|WindowServiceDemoApp\\WindowServiceDemoApp.csproj|solutionrelative:windowservicedemoapp\\services\\windowssysteminfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D33800F-3C85-4E17-88FE-5658C5875E1D}|WindowServiceDemoApp\\WindowServiceDemoApp.csproj|c:\\users\\varun gupta\\source\\repos\\windowservices\\windowservicedemoapp\\services\\eventlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D33800F-3C85-4E17-88FE-5658C5875E1D}|WindowServiceDemoApp\\WindowServiceDemoApp.csproj|solutionrelative:windowservicedemoapp\\services\\eventlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D33800F-3C85-4E17-88FE-5658C5875E1D}|WindowServiceDemoApp\\WindowServiceDemoApp.csproj|c:\\users\\varun gupta\\source\\repos\\windowservices\\windowservicedemoapp\\windowservicedemoapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D33800F-3C85-4E17-88FE-5658C5875E1D}|WindowServiceDemoApp\\WindowServiceDemoApp.csproj|solutionrelative:windowservicedemoapp\\windowservicedemoapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WindowsBackgroundWorker.cs",
+              "DocumentMoniker": "C:\\Users\\Varun Gupta\\source\\repos\\WindowServices\\WindowServiceDemoApp\\Workers\\WindowsBackgroundWorker.cs",
+              "RelativeDocumentMoniker": "WindowServiceDemoApp\\Workers\\WindowsBackgroundWorker.cs",
+              "ToolTip": "C:\\Users\\Varun Gupta\\source\\repos\\WindowServices\\WindowServiceDemoApp\\Workers\\WindowsBackgroundWorker.cs",
+              "RelativeToolTip": "WindowServiceDemoApp\\Workers\\WindowsBackgroundWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T09:24:51.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WindowsSystemInfoService.cs",
+              "DocumentMoniker": "C:\\Users\\Varun Gupta\\source\\repos\\WindowServices\\WindowServiceDemoApp\\Services\\WindowsSystemInfoService.cs",
+              "RelativeDocumentMoniker": "WindowServiceDemoApp\\Services\\WindowsSystemInfoService.cs",
+              "ToolTip": "C:\\Users\\Varun Gupta\\source\\repos\\WindowServices\\WindowServiceDemoApp\\Services\\WindowsSystemInfoService.cs",
+              "RelativeToolTip": "WindowServiceDemoApp\\Services\\WindowsSystemInfoService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wB0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T09:21:10.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventLogService.cs",
+              "DocumentMoniker": "C:\\Users\\Varun Gupta\\source\\repos\\WindowServices\\WindowServiceDemoApp\\Services\\EventLogService.cs",
+              "RelativeDocumentMoniker": "WindowServiceDemoApp\\Services\\EventLogService.cs",
+              "ToolTip": "C:\\Users\\Varun Gupta\\source\\repos\\WindowServices\\WindowServiceDemoApp\\Services\\EventLogService.cs",
+              "RelativeToolTip": "WindowServiceDemoApp\\Services\\EventLogService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T08:53:10.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WindowServiceDemoApp",
+              "DocumentMoniker": "C:\\Users\\Varun Gupta\\source\\repos\\WindowServices\\WindowServiceDemoApp\\WindowServiceDemoApp.csproj",
+              "RelativeDocumentMoniker": "WindowServiceDemoApp\\WindowServiceDemoApp.csproj",
+              "ToolTip": "C:\\Users\\Varun Gupta\\source\\repos\\WindowServices\\WindowServiceDemoApp\\WindowServiceDemoApp.csproj",
+              "RelativeToolTip": "WindowServiceDemoApp\\WindowServiceDemoApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-20T08:52:24.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Varun Gupta\\source\\repos\\WindowServices\\WindowServiceDemoApp\\Program.cs",
+              "RelativeDocumentMoniker": "WindowServiceDemoApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Varun Gupta\\source\\repos\\WindowServices\\WindowServiceDemoApp\\Program.cs",
+              "RelativeToolTip": "WindowServiceDemoApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T08:48:19.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
