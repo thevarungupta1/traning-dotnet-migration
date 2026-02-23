@@ -1,0 +1,11 @@
+C:\Users\Varun Gupta\source\repos\ClassLibrariesDemo\MathToolKit\bin\Release\net8.0\MathToolKit.deps.json
+C:\Users\Varun Gupta\source\repos\ClassLibrariesDemo\MathToolKit\bin\Release\net8.0\MathToolKit.dll
+C:\Users\Varun Gupta\source\repos\ClassLibrariesDemo\MathToolKit\bin\Release\net8.0\MathToolKit.pdb
+C:\Users\Varun Gupta\source\repos\ClassLibrariesDemo\MathToolKit\obj\Release\net8.0\MathToolKit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Varun Gupta\source\repos\ClassLibrariesDemo\MathToolKit\obj\Release\net8.0\MathToolKit.AssemblyInfoInputs.cache
+C:\Users\Varun Gupta\source\repos\ClassLibrariesDemo\MathToolKit\obj\Release\net8.0\MathToolKit.AssemblyInfo.cs
+C:\Users\Varun Gupta\source\repos\ClassLibrariesDemo\MathToolKit\obj\Release\net8.0\MathToolKit.csproj.CoreCompileInputs.cache
+C:\Users\Varun Gupta\source\repos\ClassLibrariesDemo\MathToolKit\obj\Release\net8.0\MathToolKit.dll
+C:\Users\Varun Gupta\source\repos\ClassLibrariesDemo\MathToolKit\obj\Release\net8.0\refint\MathToolKit.dll
+C:\Users\Varun Gupta\source\repos\ClassLibrariesDemo\MathToolKit\obj\Release\net8.0\MathToolKit.pdb
+C:\Users\Varun Gupta\source\repos\ClassLibrariesDemo\MathToolKit\obj\Release\net8.0\ref\MathToolKit.dll

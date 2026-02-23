@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IBkJLmjHLhM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Varun Gupta\\source\\repos\\ClassLibrariesDemo\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Varun Gupta\\.nuget\\packages\\mathtoolkit\\1.0.0\\mathtoolkit.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
