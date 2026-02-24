@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\class5\\MMCSnapInMigration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A189E4-87D6-48CA-8682-65A71630AC91}|src\\Modern.ManagementConsole\\Modern.ManagementConsole.csproj|c:\\users\\admin\\desktop\\new folder (5)\\class5\\mmcsnapinmigration\\src\\modern.managementconsole\\consoleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A189E4-87D6-48CA-8682-65A71630AC91}|src\\Modern.ManagementConsole\\Modern.ManagementConsole.csproj|solutionrelative:src\\modern.managementconsole\\consoleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A189E4-87D6-48CA-8682-65A71630AC91}|src\\Modern.ManagementConsole\\Modern.ManagementConsole.csproj|c:\\users\\admin\\desktop\\new folder (5)\\class5\\mmcsnapinmigration\\src\\modern.managementconsole\\consoleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E0A189E4-87D6-48CA-8682-65A71630AC91}|src\\Modern.ManagementConsole\\Modern.ManagementConsole.csproj|solutionrelative:src\\modern.managementconsole\\consoleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A189E4-87D6-48CA-8682-65A71630AC91}|src\\Modern.ManagementConsole\\Modern.ManagementConsole.csproj|c:\\users\\admin\\desktop\\new folder (5)\\class5\\mmcsnapinmigration\\src\\modern.managementconsole\\consoleform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{E0A189E4-87D6-48CA-8682-65A71630AC91}|src\\Modern.ManagementConsole\\Modern.ManagementConsole.csproj|solutionrelative:src\\modern.managementconsole\\consoleform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder (5)\\class5\\MMCSnapInMigration\\src\\Modern.ManagementConsole\\ConsoleForm.cs",
+              "RelativeDocumentMoniker": "src\\Modern.ManagementConsole\\ConsoleForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder (5)\\class5\\MMCSnapInMigration\\src\\Modern.ManagementConsole\\ConsoleForm.cs",
+              "RelativeToolTip": "src\\Modern.ManagementConsole\\ConsoleForm.cs",
+              "ViewState": "AgIAAH8BAAAAAAAAAAAqwBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T09:17:51.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleForm.resx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder (5)\\class5\\MMCSnapInMigration\\src\\Modern.ManagementConsole\\ConsoleForm.resx",
+              "RelativeDocumentMoniker": "src\\Modern.ManagementConsole\\ConsoleForm.resx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder (5)\\class5\\MMCSnapInMigration\\src\\Modern.ManagementConsole\\ConsoleForm.resx",
+              "RelativeToolTip": "src\\Modern.ManagementConsole\\ConsoleForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-02-24T09:17:39.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder (5)\\class5\\MMCSnapInMigration\\src\\Modern.ManagementConsole\\ConsoleForm.cs",
+              "RelativeDocumentMoniker": "src\\Modern.ManagementConsole\\ConsoleForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder (5)\\class5\\MMCSnapInMigration\\src\\Modern.ManagementConsole\\ConsoleForm.cs [Design]",
+              "RelativeToolTip": "src\\Modern.ManagementConsole\\ConsoleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T09:17:32.943Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

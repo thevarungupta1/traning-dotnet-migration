@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\class5\\MMCSnapInMigration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B764BB5-1A09-48F1-9A4C-DE0EE2344720}|src\\SnapIn.Wrapper\\SnapIn.Wrapper.csproj|c:\\users\\admin\\desktop\\new folder (5)\\class5\\mmcsnapinmigration\\src\\snapin.wrapper\\interophelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B764BB5-1A09-48F1-9A4C-DE0EE2344720}|src\\SnapIn.Wrapper\\SnapIn.Wrapper.csproj|solutionrelative:src\\snapin.wrapper\\interophelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73953E5F-E7FB-4604-B1F2-6BD090861E9D}|src\\Legacy.SnapIn\\Legacy.SnapIn.csproj|c:\\users\\admin\\desktop\\new folder (5)\\class5\\mmcsnapinmigration\\src\\legacy.snapin\\models\\managedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73953E5F-E7FB-4604-B1F2-6BD090861E9D}|src\\Legacy.SnapIn\\Legacy.SnapIn.csproj|solutionrelative:src\\legacy.snapin\\models\\managedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73953E5F-E7FB-4604-B1F2-6BD090861E9D}|src\\Legacy.SnapIn\\Legacy.SnapIn.csproj|c:\\users\\admin\\desktop\\new folder (5)\\class5\\mmcsnapinmigration\\src\\legacy.snapin\\models\\eventlogentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73953E5F-E7FB-4604-B1F2-6BD090861E9D}|src\\Legacy.SnapIn\\Legacy.SnapIn.csproj|solutionrelative:src\\legacy.snapin\\models\\eventlogentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73953E5F-E7FB-4604-B1F2-6BD090861E9D}|src\\Legacy.SnapIn\\Legacy.SnapIn.csproj|c:\\users\\admin\\desktop\\new folder (5)\\class5\\mmcsnapinmigration\\src\\legacy.snapin\\systemmanagersnapin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73953E5F-E7FB-4604-B1F2-6BD090861E9D}|src\\Legacy.SnapIn\\Legacy.SnapIn.csproj|solutionrelative:src\\legacy.snapin\\systemmanagersnapin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InteropHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder (5)\\class5\\MMCSnapInMigration\\src\\SnapIn.Wrapper\\InteropHelper.cs",
+              "RelativeDocumentMoniker": "src\\SnapIn.Wrapper\\InteropHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder (5)\\class5\\MMCSnapInMigration\\src\\SnapIn.Wrapper\\InteropHelper.cs",
+              "RelativeToolTip": "src\\SnapIn.Wrapper\\InteropHelper.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T06:37:57.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManagedService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder (5)\\class5\\MMCSnapInMigration\\src\\Legacy.SnapIn\\Models\\ManagedService.cs",
+              "RelativeDocumentMoniker": "src\\Legacy.SnapIn\\Models\\ManagedService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder (5)\\class5\\MMCSnapInMigration\\src\\Legacy.SnapIn\\Models\\ManagedService.cs",
+              "RelativeToolTip": "src\\Legacy.SnapIn\\Models\\ManagedService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T05:59:36.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventLogEntry.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder (5)\\class5\\MMCSnapInMigration\\src\\Legacy.SnapIn\\Models\\EventLogEntry.cs",
+              "RelativeDocumentMoniker": "src\\Legacy.SnapIn\\Models\\EventLogEntry.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder (5)\\class5\\MMCSnapInMigration\\src\\Legacy.SnapIn\\Models\\EventLogEntry.cs",
+              "RelativeToolTip": "src\\Legacy.SnapIn\\Models\\EventLogEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T05:57:21.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SystemManagerSnapIn.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder (5)\\class5\\MMCSnapInMigration\\src\\Legacy.SnapIn\\SystemManagerSnapIn.cs",
+              "RelativeDocumentMoniker": "src\\Legacy.SnapIn\\SystemManagerSnapIn.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder (5)\\class5\\MMCSnapInMigration\\src\\Legacy.SnapIn\\SystemManagerSnapIn.cs",
+              "RelativeToolTip": "src\\Legacy.SnapIn\\SystemManagerSnapIn.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAAAMYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T05:40:37.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

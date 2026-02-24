@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\New folder (5)\class5\MMCSnapInMigration\src\SnapIn.Wrapper\bin\Debug\net8.0-windows\Legacy.SnapIn.comhost.dll
+C:\Users\Admin\Desktop\New folder (5)\class5\MMCSnapInMigration\src\SnapIn.Wrapper\bin\Debug\net8.0-windows\SnapIn.Wrapper.deps.json
+C:\Users\Admin\Desktop\New folder (5)\class5\MMCSnapInMigration\src\SnapIn.Wrapper\bin\Debug\net8.0-windows\SnapIn.Wrapper.dll
+C:\Users\Admin\Desktop\New folder (5)\class5\MMCSnapInMigration\src\SnapIn.Wrapper\bin\Debug\net8.0-windows\SnapIn.Wrapper.pdb
+C:\Users\Admin\Desktop\New folder (5)\class5\MMCSnapInMigration\src\SnapIn.Wrapper\bin\Debug\net8.0-windows\Legacy.SnapIn.dll
+C:\Users\Admin\Desktop\New folder (5)\class5\MMCSnapInMigration\src\SnapIn.Wrapper\bin\Debug\net8.0-windows\Legacy.SnapIn.pdb
+C:\Users\Admin\Desktop\New folder (5)\class5\MMCSnapInMigration\src\SnapIn.Wrapper\obj\Debug\net8.0-windows\SnapIn.Wrapper.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder (5)\class5\MMCSnapInMigration\src\SnapIn.Wrapper\obj\Debug\net8.0-windows\SnapIn.Wrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\New folder (5)\class5\MMCSnapInMigration\src\SnapIn.Wrapper\obj\Debug\net8.0-windows\SnapIn.Wrapper.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\New folder (5)\class5\MMCSnapInMigration\src\SnapIn.Wrapper\obj\Debug\net8.0-windows\SnapIn.Wrapper.AssemblyInfo.cs
+C:\Users\Admin\Desktop\New folder (5)\class5\MMCSnapInMigration\src\SnapIn.Wrapper\obj\Debug\net8.0-windows\SnapIn.Wrapper.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder (5)\class5\MMCSnapInMigration\src\SnapIn.Wrapper\obj\Debug\net8.0-windows\SnapIn.W.B43862E5.Up2Date
+C:\Users\Admin\Desktop\New folder (5)\class5\MMCSnapInMigration\src\SnapIn.Wrapper\obj\Debug\net8.0-windows\SnapIn.Wrapper.dll
+C:\Users\Admin\Desktop\New folder (5)\class5\MMCSnapInMigration\src\SnapIn.Wrapper\obj\Debug\net8.0-windows\refint\SnapIn.Wrapper.dll
+C:\Users\Admin\Desktop\New folder (5)\class5\MMCSnapInMigration\src\SnapIn.Wrapper\obj\Debug\net8.0-windows\SnapIn.Wrapper.pdb
+C:\Users\Admin\Desktop\New folder (5)\class5\MMCSnapInMigration\src\SnapIn.Wrapper\obj\Debug\net8.0-windows\ref\SnapIn.Wrapper.dll

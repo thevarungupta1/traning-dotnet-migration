@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <EnableComHosting>true</EnableComHosting>
+  </PropertyGroup>
+
+  <!-- Instead of the heavy Microsoft.Windows.Compatibility metapackage,
+       we reference ONLY the specific packages we need.
+       This is the recommended approach — lightweight and focused.
+
+       In .NET Framework, these were all built-in. In .NET 8 you must
+       add them explicitly (this is part of the migration challenge).
+
+       Note: Microsoft.Win32.Registry is already included in net8.0-windows
+       TFM, so we don't need a separate package for Registry access. -->
+  <ItemGroup>
+    <PackageReference Include="System.ServiceProcess.ServiceController" Version="8.*" />
+    <PackageReference Include="System.Diagnostics.EventLog" Version="8.*" />
+  </ItemGroup>
+
+</Project>

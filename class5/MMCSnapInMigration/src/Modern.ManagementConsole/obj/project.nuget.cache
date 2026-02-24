@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Rygs73tXSI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\class5\\MMCSnapInMigration\\src\\Modern.ManagementConsole\\Modern.ManagementConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.2\\system.diagnostics.eventlog.8.0.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.serviceprocess.servicecontroller\\8.0.1\\system.serviceprocess.servicecontroller.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
