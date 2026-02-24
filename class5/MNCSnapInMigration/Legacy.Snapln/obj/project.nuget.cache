@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bXQZkBGya8s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Varun Gupta\\Desktop\\Dotnet - unisys\\class5\\MNCSnapInMigration\\Legacy.Snapln\\Legacy.Snapln.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Varun Gupta\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\Varun Gupta\\.nuget\\packages\\system.serviceprocess.servicecontroller\\8.0.0\\system.serviceprocess.servicecontroller.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
